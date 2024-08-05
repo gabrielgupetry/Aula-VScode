@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    font-family: "Poppins", sans-serif;
+    background-color: beige;
+}
+
+pre {
+    color: green;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-size: 32px;
+    color: blueviolet;
+}
+
+strong {
+    color: red;
+}
+
+mark {
+    background-color: rgb(000, 000, 255);
+}
+
+a {
+    color: tomato;
+    text-decoration: none;
+}
